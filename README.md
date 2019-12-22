@@ -21,6 +21,7 @@
 - [NPM](https://github.com/lijinghuatongxue/awesome-accelerate/blob/master/Package_Download/NPM.md)
 - [Maven](https://github.com/lijinghuatongxue/awesome-accelerate/blob/master/Package_Download/Maven.md)
 - [K8s images download](https://github.com/lijinghuatongxue/awesome-accelerate/blob/master/Package_Download/gcr.io.md)
+- [Brew for Mac](https://github.com/lijinghuatongxue/awesome-accelerate/blob/master/Package_Download/Brew.md)
 
 ### [Service](https://github.com/lijinghuatongxue/awesome-accelerate/tree/master/Service)
 
