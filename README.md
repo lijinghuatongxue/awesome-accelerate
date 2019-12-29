@@ -7,7 +7,7 @@
 ### [CMD](https://github.com/lijinghuatongxue/awesome-accelerate/blob/master/CMD/README.md)
 
 - [SCP](https://github.com/lijinghuatongxue/awesome-accelerate/blob/master/CMD/README.md)
-- SSH to do
+- [SSH](https://github.com/lijinghuatongxue/awesome-accelerate/blob/master/CMD/README.md)
 
 ### [Linux_System_Repositories](https://github.com/lijinghuatongxue/awesome-accelerate/tree/master/Linux_System_Repositories)
 
