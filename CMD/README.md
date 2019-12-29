@@ -7,4 +7,14 @@ $ source /root/.bashrc
 
 ## Ssh
 
-to do
+vim /etc/ssh/sshd_config
+
+```
+UseDNS no
+GSSAPIAuthentication no
+```
+
+```bash
+$ service sshd restart
+```
+
