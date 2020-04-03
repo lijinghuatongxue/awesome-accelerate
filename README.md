@@ -31,5 +31,6 @@
 
 ### [Compile](https://github.com/lijinghuatongxue/awesome-accelerate/tree/master/Compile)
 
-- Make
+- [Make](https://github.com/lijinghuatongxue/awesome-accelerate/tree/master/Compile)
+- [Jenkins plugins install](https://github.com/lijinghuatongxue/awesome-accelerate/tree/master/Compile)
 
