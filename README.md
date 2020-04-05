@@ -34,3 +34,11 @@
 - [Make](https://github.com/lijinghuatongxue/awesome-accelerate/tree/master/Compile)
 - [Jenkins plugins install](https://github.com/lijinghuatongxue/awesome-accelerate/tree/master/Compile)
 
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/lijinghuatongxue/awesome-accelerate.svg)](https://starchart.cc/lijinghuatongxue/awesome-accelerate)
+
+
+
