@@ -22,6 +22,7 @@
 - [Maven](https://github.com/lijinghuatongxue/awesome-accelerate/blob/master/Package_Download/Maven.md)
 - [K8s images download](https://github.com/lijinghuatongxue/awesome-accelerate/blob/master/Package_Download/gcr.io.md)
 - [Brew for Mac](https://github.com/lijinghuatongxue/awesome-accelerate/blob/master/Package_Download/Brew.md)
+- [Goproxy](https://github.com/lijinghuatongxue/awesome-accelerate/blob/master/Package_Download/goproxy.md)
 
 ### [Service](https://github.com/lijinghuatongxue/awesome-accelerate/tree/master/Service)
 
